@@ -1,8 +1,8 @@
-# Near-Instantaneous-Battery-End-of-Discharge-Prognosis-via-Uncertain-Event-Likelihood-Functions
 This tutorial is intended to indicate how to run supplementary files that replicate 
-the content of the article entitled "Near-Instantaneous Battery End-of-Discharge 
-Prognosis via Uncertain Event Likelihood Functions", published in the journal ISA 
-Transactions, Elsevier.
+the content of the article:
+
+· D. E. Acuña-Ureta and M. E. Orchard, "Near-Instantaneous Battery End-of-Discharge 
+Prognosis via Uncertain Event Likelihood Functions," ISA Transactions, 2022.
 
 In this directory, there should be three elements whose description is the
 following:
